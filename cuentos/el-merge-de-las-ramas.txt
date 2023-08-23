@@ -1,0 +1,7 @@
+Había una vez una programadora llamada Maya, quien estaba decidida a dominar el flujo de trabajo de Git con ramas. Quería experimentar con nuevas características sin afectar el código principal. Creó una rama llamada "nueva-caracteristica" para trabajar en una mejora emocionante para el proyecto en el que estaba colaborando.
+
+Maya trabajó diligentemente en su nueva característica durante días, haciendo commits regulares para mantener un historial claro. Finalmente, se sintió segura de que su trabajo estaba listo para ser fusionado con la rama principal. Ejecutó "git merge nueva-caracteristica" en la rama principal, pero inmediatamente notó que algo salió mal. El código principal se llenó de errores y conflictos que no había anticipado.
+
+Sintiéndose frustrada, Maya recordó que no había realizado pruebas exhaustivas en la rama de nueva característica antes de la fusión. Rápidamente se cambió de nuevo a su rama, resolvió los problemas y realizó las pruebas necesarias. Una vez que se aseguró de que todo funcionaba correctamente, repitió el proceso de fusión con éxito.
+
+Este episodio enseñó a Maya la importancia de probar cuidadosamente cualquier nueva característica en su rama antes de intentar fusionarla con el código principal. A partir de entonces, se convirtió en una práctica habitual para ella realizar pruebas exhaustivas y resolver cualquier conflicto antes de intentar una fusión.
